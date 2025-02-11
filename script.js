@@ -39,4 +39,4 @@ document.querySelectorAll('.project-card').forEach(card => {
 
 // Dynamic copyright year
 document.querySelector('footer p').textContent = 
-  `© ${new Date().getFullYear()} Michael Williams. All rights reserved.`;
+  `© ${new Date().getFullYear()} Pramod Topannavar. All rights reserved.`;
